@@ -1,0 +1,32 @@
+<Cluster>
+<Name>Kezelõpult</Name>
+<NumElts>7</NumElts>
+<I32>
+<Name>Konverziós faktor</Name>
+<Val>4</Val>
+</I32>
+<I32>
+<Name>Threshold</Name>
+<Val>2526689</Val>
+</I32>
+<String>
+<Name>Megjegyzések</Name>
+<Val>**********</Val>
+</String>
+<I32>
+<Name>Lépés</Name>
+<Val>1</Val>
+</I32>
+<I32>
+<Name>Sebesség</Name>
+<Val>100</Val>
+</I32>
+<I32>
+<Name> X init</Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name>Y init</Name>
+<Val>0</Val>
+</I32>
+</Cluster>
