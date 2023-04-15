@@ -1,3 +1,6 @@
+# Laser engraver
+With this application we can simulate the laser engraving process.
+
 Dependencies:
 
 NI Labview 2016 (National Instruments)
