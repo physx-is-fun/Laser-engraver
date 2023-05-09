@@ -3,7 +3,7 @@ With this application we can simulate the laser engraving process.
 
 Dependencies:
 
-NI Labview 2016 (National Instruments)
+Labview 2023 Q1 Community Edition
 
 Digilent LINX (Control Arduino, Rasberry Pi, BeagleBone and more) version 3.0.1.192 (NI Labview Tools Network, Digilent)
 
