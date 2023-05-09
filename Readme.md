@@ -1,7 +1,7 @@
-# Laser engraver
-With this application we can simulate the laser engraving process.
+# Lézeres jelölő
+Ezzel az alkalmazással szimulálhatjuk a lézergravírozás folyamatát.
 
-Dependencies:
+Függőségek:
 
 Labview 2023 Q1 Community Edition
 
