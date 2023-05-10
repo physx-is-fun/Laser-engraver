@@ -1,4 +1,4 @@
-# Lézeres jelölő
+# Lézeres gravírozó
 Ezzel az alkalmazással szimulálhatjuk a lézergravírozás folyamatát.
 
 Függőségek:
