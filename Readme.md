@@ -1,7 +1,7 @@
 # Lézeres gravírozó
 Ezzel az alkalmazással szimulálhatjuk a lézergravírozás folyamatát.
 
-Függőségek:
+## Függőségek
 
 Labview 2023 Q1 Community Edition
 

@@ -100,3 +100,4 @@ A megmunkálás idõpontja 	Konfigurációs fájl	Megjegyzések
 2018.07.27. 19:57:06	config.txt	**********
 09/05/2023 20:11:28	config.txt	**********
 09/05/2023 20:29:47	config.txt	**********
+10/05/2023 10:49:18	config.txt	**********
