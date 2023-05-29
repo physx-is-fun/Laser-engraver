@@ -1,7 +1,8 @@
-# Lézeres gravírozó
-Ezzel az alkalmazással szimulálhatjuk a lézergravírozás folyamatát.
+# Laser engraver
 
-## Függőségek
+With this software we can simulate the laser engraving process.
+
+## Dependencies
 
 Labview 2023 Q1 Community Edition
 
